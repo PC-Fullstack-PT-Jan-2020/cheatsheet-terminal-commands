@@ -17,18 +17,27 @@
 ```touch (create file)```
 ![Alt text](img/touch.png?raw=true "Create file")
 
-- rm (remove - file or directory)
+```rm (remove - file or directory)```
   - (-r recursive, -f force)
-- ls (list files and directories)
-- ls -la (list files and directories, including hidden ones IE .foo.txt)
+```ls (list files and directories)```
+  - ls -la (list files and directories, including hidden ones IE .foo.txt)
 
 ## aliases
 
-l - show all files and directories (including hidden -- ls -la)
-ll - show all files and directories (not hidden)
+```l - show all files and directories (including hidden -- ls -la)```
+```ll - show all files and directories (not hidden)```
 
-. current directory
-.. previous directory
+```.``` 
+current directory
+```..```
+ previous directory
+
+ ## relative paths
+
+ ```./path/to/file/from-location.png```
+ 
+ ## absolute path
+ ```/from/base/root/of/computer```
 
 
 ## additional resources
