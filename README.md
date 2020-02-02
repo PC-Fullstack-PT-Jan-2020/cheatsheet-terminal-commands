@@ -29,3 +29,8 @@ ll - show all files and directories (not hidden)
 
 . current directory
 .. previous directory
+
+
+## additional resources
+
+http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/
