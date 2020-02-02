@@ -1,7 +1,7 @@
 # terminal command cheatsheet
 
 - pwd (print working directory - where you currently are in computer)
-- cd (change directory)
+  `cd (change directory)`
   ![Alt text](img/cd.png?raw=true "Change Directory")
 - mkdir (make directory)
 - ctrl+c (cancel command)
